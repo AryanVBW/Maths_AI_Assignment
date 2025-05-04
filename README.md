@@ -4,7 +4,8 @@
 You can visit and try all the analytics and layout implementations live using IPython/Jupyter—not just a static notebook, but fully interactive on Google Colab
 
 
-![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](http://ipynb.aryanvbw.live)
+[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](http://ipynb.aryanvbw.live)
+
 ## Slide 1: Introduction
 
 *   **Topic:** Exploring two fascinating statistical patterns: Benford's Law and Zipf's Law.
